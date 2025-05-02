@@ -105,6 +105,10 @@ http://127.0.0.1:5000
 
 3. Use the web interface to upload data and get predictions.
 
+# Demo
+
+![House_price_project](https://github.com/user-attachments/assets/dd7620cc-c7d4-412f-9968-b47d506c3814)
+
 
 # Technologies Used
 
