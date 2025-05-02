@@ -1,4 +1,4 @@
-# End-to-End ML Deployment:Real Estate Insights
+# End-to-End ML Deployment : Real Estate Insights
 
 This repository contains an end-to-end machine learning project for predicting house prices. The project involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation. It is designed to demonstrate the complete lifecycle of a machine learning project. [Project Deployed Link](https://housepriceprediction-medplmmtpbacvnyt5akimp.streamlit.app/).
 
