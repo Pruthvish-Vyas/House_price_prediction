@@ -11,6 +11,7 @@ This repository contains an end-to-end machine learning project for predicting h
 - [Directory Structure](#directory-structure)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#Demo)
 - [Technologies Used](#technologies-used)
 
 ---
