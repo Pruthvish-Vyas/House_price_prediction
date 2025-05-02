@@ -34,7 +34,30 @@ The goal of this project is to predict house prices based on various features su
 ## Directory Structure
 
 ```
-House_price_prediction/ ├── app.py # Main application file ├── Dockerfile # Docker configuration ├── README.md # Project documentation ├── requirements.txt # Python dependencies ├── setup.py # Package setup ├── artifacts/ # Stores model and preprocessed data │ ├── data.csv │ ├── model.pkl │ ├── preprocessor.pkl │ ├── train.csv │ └── test.csv ├── notebook/ # Jupyter notebooks for EDA and modeling │ ├── EDA.ipynb │ ├── MODEL.ipynb │ └── catboost_info/ ├── src/ # Source code │ ├── init.py │ ├── exception.py # Custom exception handling │ ├── logger.py # Logging utility │ ├── utils.py # Helper functions │ ├── components/ # Modular components for the pipeline │ └── pipeline/ # Pipeline implementation
+House_price_prediction/
+├── app.py                # Main application file
+├── Dockerfile            # Docker configuration
+├── README.md             # Project documentation
+├── requirements.txt      # Python dependencies
+├── setup.py              # Package setup
+├── artifacts/            # Stores model and preprocessed data
+│   ├── data.csv
+│   ├── model.pkl
+│   ├── preprocessor.pkl
+│   ├── train.csv
+│   └── test.csv
+├── notebook/             # Jupyter notebooks for EDA and modeling
+│   ├── EDA.ipynb
+│   ├── MODEL.ipynb
+│   └── catboost_info/
+├── src/                  # Source code
+│   ├── __init__.py
+│   ├── exception.py      # Custom exception handling
+│   ├── logger.py         # Logging utility
+│   ├── utils.py          # Helper functions
+│   ├── components/       # Modular components for the pipeline
+│   └── pipeline/         # Pipeline implementation
+
 
 ```
 
