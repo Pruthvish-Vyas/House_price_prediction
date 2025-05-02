@@ -12,8 +12,6 @@ This repository contains an end-to-end machine learning project for predicting h
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
