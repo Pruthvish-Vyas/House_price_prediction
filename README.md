@@ -100,9 +100,12 @@ python app.py
 ```
 
 2. Open the application in your browser:
-
+```
 http://localhost:5000
+```
+```
 http://127.0.0.1:5000
+```
 
 3. Use the web interface to upload data and get predictions.
 
@@ -115,7 +118,7 @@ http://127.0.0.1:5000
 
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- Framework: Flask (for web application)
+- Framework: Streamlit (for web application)
 - Containerization: Docker
 
 
